@@ -37,9 +37,8 @@ class LVL8 extends Phaser.Scene
         this.add.image(500,400,'bk');
         pit=this.physics.add.staticGroup();
         pit.create(0,800,'pit').setScale(12,0.2).refreshBody();
-        //this.physics.add.collider(ball,pit);
+        pit.setAlpha(0);
         platforms = this.physics.add.staticGroup();
-        //platforms.create(0, 800, 'block').setScale(12,0.2).refreshBody();
         ball=this.physics.add.sprite(100,500,'ball').setScale(0.04);
         ball.setCollideWorldBounds(true);
         this.physics.add.collider(ball, platforms);
