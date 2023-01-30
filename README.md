@@ -1,7 +1,7 @@
 # 20 Days Of JavaScript 
 
 Repository containing all the projects made in 20 Days while completing the 20 Days of JavaScript Challenge.
-## Projects:-
+# Streak Log:-
 
 | Days  | Name                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
@@ -27,6 +27,6 @@ Repository containing all the projects made in 20 Days while completing the 20 D
 |20|[Bounce Game BGM](https://vansh09122003.github.io/20-Days-JS-Code-Streak/Day-20)|
 
 
-[![Vansh Tanwani linkedin](https://www.linkedin.com/in/vansh-tanwani/)
+[Vansh Tanwani linkedin](https://www.linkedin.com/in/vansh-tanwani/)
 
 
